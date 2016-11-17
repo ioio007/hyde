@@ -3,15 +3,16 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 # relative_permalinks: true
+excerpt_separator: "<!-- more -->" # Adds read more feature
 
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Something
+tagline:          
+description:      'I Learn.'
+url:              http://ioio007.github.io
 baseurl:          /
 
 author:
